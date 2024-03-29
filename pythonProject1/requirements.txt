@@ -24,7 +24,7 @@ google-pasta
 googleapis-common-protos
 greenlet==3.0.3
 grpcio
-grpcio-status==1.62.1
+grpcio-status
 h11==0.14.0
 h5py==3.10.0
 httpcore==1.0.5
