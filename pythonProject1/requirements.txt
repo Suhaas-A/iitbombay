@@ -23,7 +23,7 @@ google-generativeai
 google-pasta
 googleapis-common-protos
 greenlet==3.0.3
-grpcio==1.62.1
+grpcio
 grpcio-status==1.62.1
 h11==0.14.0
 h5py==3.10.0
