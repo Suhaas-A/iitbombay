@@ -123,15 +123,6 @@ streamlit-component-socket-client==0.1.0
 streamlit-cookies-manager==0.2.0
 streamlit-modal==0.1.2
 sympy==1.12
-termcolor==2.4.0
-thinc==8.2.3
-threadpoolctl==3.3.0
-toml==0.10.2
-toolz==0.12.1
-tqdm==4.66.2
-typer==0.9.4
-typing_extensions==4.10.0
-tzdata==2024.1
 urllib3==2.2.1
 wasabi==1.1.2
 watchdog==4.0.0
